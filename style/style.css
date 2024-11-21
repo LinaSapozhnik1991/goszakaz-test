@@ -338,6 +338,9 @@ body {
   width: 68rem;
   height: 18rem;
 }
+.main__content .card11 .card__title {
+  margin: 0 2rem 1rem 3rem;
+}
 .main__content .card12 {
   grid-area: c12;
   width: 68rem;
